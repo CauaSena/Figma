@@ -29,13 +29,11 @@
     margin: auto;
 }
 .all-nav .container .login ,.all-nav .container .infos {
-display: flex;
 box-sizing: border-box;
 flex-direction: row;
 align-items: center;
 justify-content: end;
 padding: 0px;
-gap: 40px;
 width: 10%;
 height: 32px;
 }
