@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0px;
+    padding: 10px;
     position: relative;
     background: #FFFFFF;
     font-family: 'Inter';
