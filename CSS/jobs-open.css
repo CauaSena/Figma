@@ -2,7 +2,7 @@
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    width: 768px;
+    width: 80%;
     height: 136px;
     border: 1px solid #5a5f69;
     border-radius: 16px;
