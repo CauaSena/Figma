@@ -5,6 +5,12 @@
 @import url(jobs-open.css);
 @import url(comments.css);
 
+*{
+    padding: 0;
+    box-sizing:border-box;
+    margin: 0;
+}
+
 body{
     display: flex;
     flex-direction: column;
@@ -13,6 +19,7 @@ body{
     position: relative;
     background: #FFFFFF;
     font-family: 'Inter';
+    width: 100%;
 }
 ul{
     list-style-type: none;
