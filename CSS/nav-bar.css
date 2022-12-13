@@ -9,6 +9,7 @@
     align-content: center;
 }
 .all-nav .container {
+    margin: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
