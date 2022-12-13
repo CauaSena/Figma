@@ -25,6 +25,7 @@
     padding: 0px;
     width: 10%;
     height: 26.99px;
+    margin: auto;
 }
 .all-nav .container .login ,.all-nav .container .infos {
 display: flex;
