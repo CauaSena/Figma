@@ -15,7 +15,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0px 32px;
-    width: 60%;
+    width: 100%;
     height: 44px;
 }
 .all-nav .globo{
@@ -40,7 +40,6 @@ height: 32px;
 .all-nav .container ul{
     display: flex;
     list-style-type: none;
-    gap: 32px;
 }
 .all-nav .container .infos  ul li a, .all-nav .container .login ul li a {
     text-decoration: none;
