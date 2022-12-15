@@ -33,7 +33,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: end;
-    padding: 0px 10px;
     height: 32px;
     margin: auto;
 }
@@ -45,12 +44,10 @@
     display: flex;
     list-style-type: none;
 }
-.all-nav .container ul li {
-    margin: 0px 20px;
-}
 .all-nav .container .infos  ul li a, .all-nav .container .login ul li a {
     text-decoration: none;
     color: black;
+    margin: 0px 20px;
 }
 .all-nav .container .login button {
     background-color: #8E2424;
