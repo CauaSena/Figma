@@ -1,0 +1,11 @@
+header {
+    width:100% ;
+    }
+    header h2, header h3{
+        text-align: center;
+        margin: 2%;
+    }
+    header p{
+        text-align: justify;
+        margin: 3%;
+    }
