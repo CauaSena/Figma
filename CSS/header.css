@@ -1,9 +1,10 @@
 header {
-width:100% ;
+    width:100%;
+    height: auto;
 }
 header h2, header h3{
     text-align: center;
-    margin: 2%;
+    margin: 4%;
 }
 header p{
     text-align: justify;
