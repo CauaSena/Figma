@@ -44,7 +44,9 @@
 .all-nav .container ul{
     display: flex;
     list-style-type: none;
-    margin: 2%;
+}
+.all-nav .container ul li {
+    margin: 0px 20px;
 }
 .all-nav .container .infos  ul li a, .all-nav .container .login ul li a {
     text-decoration: none;
