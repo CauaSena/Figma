@@ -41,7 +41,6 @@
 .all-nav .container .login{
     width: 30%;
 }
-
 .all-nav .container ul{
     display: flex;
     list-style-type: none;
@@ -59,4 +58,3 @@
     height: 30px;
     color: #FFFFFF;
 }
-
