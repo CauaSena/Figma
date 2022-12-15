@@ -35,16 +35,17 @@
     justify-content: end;
     padding: 0px 10px;
     height: 32px;
+    margin: auto;
 }
 
 .all-nav .container ul{
     display: flex;
     list-style-type: none;
+    padding: 20px;
 }
 .all-nav .container .infos  ul li a, .all-nav .container .login ul li a {
     text-decoration: none;
     color: black;
-    margin : 2%;
 }
 .all-nav .container .login button {
     background-color: #8E2424;
