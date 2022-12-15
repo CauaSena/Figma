@@ -20,6 +20,7 @@ body{
     background: #FFFFFF;
     font-family: 'Inter';
     width: 100%;
+    margin: 2%;
 }
 ul{
     list-style-type: none;
